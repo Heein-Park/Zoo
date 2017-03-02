@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "description": "Capture the animals",
+    "main": "main.js",
+    "blipp" : {
+        "title": "Zoo",
+        "shortTitle": "zoo",
+        "icon": "zoo.png"
+    },
+    "dependencies": {
+        "blippar": "1.4.9"
+    }
+}
